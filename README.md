@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Developement**
 
-- 👨‍💻 All of my projects are available at [chandan-rxn.netlify.app/Projects](chandan-rxn.netlify.app/Projects)
+- 👨‍💻 All of my projects are available at [chandan-rxn.netlify.app/Projects](https://chandan-rxn.netlify.app/Projects)
 
 - 💬 Ask me about **React , Next , React Native**
 
