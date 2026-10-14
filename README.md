@@ -96,68 +96,6 @@ const chandan = {
 
 <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
 
-<h2 align="center">🌟 &nbsp;Featured Projects</h2>
-
-<table>
-  <tr>
-    <td>
-
-### 🏆 Plays Go
-**Location-Based Sports Matchmaking Platform**
-
-![Timeline](https://img.shields.io/badge/2026_–_Present-FFD43B?style=flat-square&labelColor=0D0D0D)
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-playsgo.vercel.app-0D0D0D?style=flat-square&labelColor=FFD43B)](https://playsgo.vercel.app)
-
-A real-time sports discovery platform that helps athletes connect, organize games, and play locally.
-
-`Next.js` `NestJS` `TypeScript` `PostgreSQL` `Prisma` `Socket.IO` `Cloudinary` `Razorpay`
-
-- 📍 **Radius-based geolocation** — discover nearby venues, games and players
-- 🎯 **Smart matchmaking** — filter by sport, skill level and availability
-- 💬 **Live chat rooms** — instant team coordination via Socket.IO
-- 🔐 **Secure & payment-ready** — JWT, Google OAuth, Cloudinary, Razorpay venue bookings
-
-</td>
-  </tr>
-  <tr>
-    <td>
-
-### 🏅 Alpha Sports Portal
-**Sports Management System**
-
-![Timeline](https://img.shields.io/badge/2024_–_2025-FFD43B?style=flat-square&labelColor=0D0D0D)
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-alphaschool--theta.vercel.app-0D0D0D?style=flat-square&labelColor=FFD43B)](https://alphaschool-theta.vercel.app)
-
-End-to-end sports administration and tournament management for academic institutions and organizations.
-
-`MongoDB` `Express` `React` `Node.js` `Cloudinary` `JWT`
-
-- 🧑‍🎓 **Athlete management** — registration for students, categories and tournaments
-- ✅ **Admin approval dashboard** — role-based access with verification workflows
-- 🖼️ **Media & rosters** — Multer + Cloudinary uploads with roster capacity APIs
-
-</td>
-  </tr>
-  <tr>
-    <td>
-
-### 🤖 HelloBooks AI & HelloGrowth CRM
-**Enterprise SaaS Contributions**
-
-![Org](https://img.shields.io/badge/Meru_Technosoft-FFD43B?style=flat-square&labelColor=0D0D0D)
-![Role](https://img.shields.io/badge/Fullstack_Developer_Intern-0D0D0D?style=flat-square&labelColor=FFD43B)
-
-Contributed to production SaaS products for enterprise workflow automation and AI-powered bookkeeping.
-
-`React` `Node.js` `PostgreSQL` `Prisma` `Supabase` `Next.js`
-
-- 📚 Built and maintained core bookkeeping features for **HelloBooks AI**
-- 🤝 Developed CRM workflows for **HelloGrowth** integrated with Supabase
-- ⚡ Improved Next.js performance, API route efficiency and SEO
-
-</td>
-  </tr>
-</table>
 
 <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
 
