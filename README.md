@@ -3,14 +3,23 @@
 </div>
 
 <div align="center">
-  <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,100:0D0D0D&height=180&section=header&text=CHANDAN%20PARGI&fontSize=54&fontColor=0D0D0D&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20MERN%20Specialist%20%E2%80%A2%20Real-Time%20Systems%20Builder&descSize=16&descAlignY=60&descColor=0D0D0D" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <h1>⚡ CHANDAN PARGI ⚡</h1>
-  <p><strong>Fullstack Developer &bull; MERN Stack Specialist &bull; Real-Time Systems Builder</strong></p>
-  <p><em>Turning ideas into scalable, real-time web applications and high-impact digital experiences.</em></p>
-  <p>📍 Ahmedabad, India &nbsp;|&nbsp; 💼 Open to Opportunities &amp; Collaborations</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFD43B&center=true&vCenter=true&width=760&height=50&lines=Turning+ideas+into+scalable+web+apps;Building+real-time+experiences+with+Socket.IO;MERN+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL;Always+learning%2C+building%2C+and+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+  ![Location](https://img.shields.io/badge/📍_Ahmedabad,_India-0D0D0D?style=for-the-badge&labelColor=FFD43B&color=0D0D0D)
+  ![Status](https://img.shields.io/badge/💼_Open_to_Opportunities-0D0D0D?style=for-the-badge&labelColor=FFD43B&color=0D0D0D)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ChandanRx&label=Profile%20Views&color=FFD43B&style=for-the-badge&labelColor=0D0D0D)
+
 </div>
 
 <div align="center">
@@ -31,140 +40,142 @@
 
 <br/>
 
+<img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
+
+<h2 align="center">👨‍💻 &nbsp;About Me</h2>
+
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+
+```js
+const chandan = {
+  role: "Fullstack Developer",
+  stack: ["MongoDB", "Express", "React", "Node", "Next.js", "NestJS"],
+  loves: ["Real-time systems", "Clean architecture", "Fluid UI"],
+  education: "B.E. IT — GEC Gandhinagar",
+  currentlyBuilding: "Plays Go 🏆",
+  openToWork: true,
+};
+```
+
+</td>
+    <td width="40%" valign="top">
+
+🚀 **Fullstack Engineering** — MERN + Next.js platforms, end to end
+
+⚡ **Real-Time Mastery** — NestJS, Prisma, Socket.IO
+
+🏢 **Production SaaS** — HelloBooks AI & HelloGrowth CRM at Meru Technosoft
+
+💡 **Philosophy** — Clean code, smooth UX, performance first
+
+</td>
+  </tr>
+</table>
+
+<img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
+
+<h2 align="center">🛠️ &nbsp;Tech Arsenal</h2>
+
 <div align="center">
-  <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
-</div>
 
-## 👨‍💻 About Me
-
-Hello! I am **Chandan Pargi**, a passionate **Fullstack Developer** and **MERN Stack Engineer** dedicated to building modern, responsive, and resilient web applications.
-
-- 🚀 **Fullstack Engineering**: Hands-on experience architecting full-stack web platforms using **MongoDB**, **Express.js**, **React.js**, **Node.js**, and **Next.js**.
-- ⚡ **Backend & Real-Time Mastery**: Developing robust backend APIs and services using **NestJS**, **TypeScript**, **PostgreSQL**, **Prisma ORM**, **Supabase**, and real-time bidirectional communication via **Socket.IO**.
-- 🏢 **Production SaaS Experience**: Contributed to AI-driven SaaS solutions including **HelloBooks AI** (AI-powered bookkeeping platform) and **HelloGrowth CRM** at Meru Technosoft, focusing on microservices, API integrations, and SEO-optimized Next.js architectures.
-- 🎓 **Education**: Bachelor of Engineering (Information Technology) from **Government Engineering College, Gandhinagar**.
-- 💡 **Philosophy**: Clean architecture, fluid user interfaces, performance optimization, and continuous learning.
+| 🌐 Frontend | ⚙️ Backend | 🗄️ Database | 🚀 Tools & Cloud |
+| :---: | :---: | :---: | :---: |
+| React • Next.js<br/>TypeScript • JavaScript<br/>Redux Toolkit • Zustand<br/>Tailwind • HTML5 • CSS3 | Node.js • Express<br/>NestJS • REST APIs<br/>Socket.IO • JWT Auth | MongoDB • PostgreSQL<br/>MySQL • Prisma ORM<br/>Supabase | Git • GitHub<br/>Vercel • Netlify<br/>Cloudinary • Razorpay<br/>Postman • NPM • PNPM |
 
 <br/>
 
-<div align="center">
-  <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css&perline=8" alt="Frontend" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma,supabase&perline=8" alt="Backend and DB" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,npm,pnpm&perline=8" alt="Tools" />
+
 </div>
 
-## 🛠️ Tech Stack &amp; Skills
+<img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=FFD43B" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<h2 align="center">🌟 &nbsp;Featured Projects</h2>
 
-### ⚙️ Backend &amp; APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/REST_APIs-FFD43B?style=for-the-badge&logo=fastapi&logoColor=0D0D0D" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
+<table>
+  <tr>
+    <td>
 
-### 🗄️ Databases &amp; ORM
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+### 🏆 Plays Go
+**Location-Based Sports Matchmaking Platform**
 
-### 🚀 Cloud, Tools &amp; Services
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/PNPM-4A4A4A?style=for-the-badge&logo=pnpm&logoColor=F69220" alt="PNPM" />
-</p>
+![Timeline](https://img.shields.io/badge/2026_–_Present-FFD43B?style=flat-square&labelColor=0D0D0D)
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-playsgo.vercel.app-0D0D0D?style=flat-square&labelColor=FFD43B)](https://playsgo.vercel.app)
 
-<br/>
+A real-time sports discovery platform that helps athletes connect, organize games, and play locally.
 
-<div align="center">
-  <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
-</div>
+`Next.js` `NestJS` `TypeScript` `PostgreSQL` `Prisma` `Socket.IO` `Cloudinary` `Razorpay`
 
-## 🌟 Featured Projects
+- 📍 **Radius-based geolocation** — discover nearby venues, games and players
+- 🎯 **Smart matchmaking** — filter by sport, skill level and availability
+- 💬 **Live chat rooms** — instant team coordination via Socket.IO
+- 🔐 **Secure & payment-ready** — JWT, Google OAuth, Cloudinary, Razorpay venue bookings
 
-### 🏆 01. Plays Go — Location-Based Sports Matchmaking Platform
-> **Timeline**: 2026 – Present &nbsp;|&nbsp; 🌐 [**Live Demo: playsgo.vercel.app**](https://playsgo.vercel.app)
+</td>
+  </tr>
+  <tr>
+    <td>
 
-A full-scale real-time sports discovery and matchmaking web platform helping athletes and sports enthusiasts connect, organize games, and play locally.
+### 🏅 Alpha Sports Portal
+**Sports Management System**
 
-- **Stack**: `Next.js` &bull; `NestJS` &bull; `TypeScript` &bull; `PostgreSQL` &bull; `Prisma ORM` &bull; `Socket.IO` &bull; `Cloudinary` &bull; `Razorpay`
-- **Key Features**:
-  - **Radius-Based Geolocation Discovery**: Dynamic geolocation search allowing users to discover nearby venues, games, and active sports players.
-  - **Matchmaking &amp; Skill Filtering**: Multi-criteria filtering by sport, skill proficiency, and game availability.
-  - **Real-Time Communication**: Live chat room integration powered by **Socket.IO** for instant team messaging and coordination.
-  - **Security &amp; Payments**: JWT authentication, Google OAuth integration, secure image handling via Cloudinary, and Razorpay payment integration for venue bookings.
+![Timeline](https://img.shields.io/badge/2024_–_2025-FFD43B?style=flat-square&labelColor=0D0D0D)
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-alphaschool--theta.vercel.app-0D0D0D?style=flat-square&labelColor=FFD43B)](https://alphaschool-theta.vercel.app)
 
----
+End-to-end sports administration and tournament management for academic institutions and organizations.
 
-### 🏅 02. Alpha Sports Portal — Sports Management System
-> **Timeline**: 2024 – 2025 &nbsp;|&nbsp; 🌐 [**Live Demo: alphaschool-theta.vercel.app**](https://alphaschool-theta.vercel.app)
+`MongoDB` `Express` `React` `Node.js` `Cloudinary` `JWT`
 
-An end-to-end sports administration and tournament management portal for academic institutions and sports organizations.
+- 🧑‍🎓 **Athlete management** — registration for students, categories and tournaments
+- ✅ **Admin approval dashboard** — role-based access with verification workflows
+- 🖼️ **Media & rosters** — Multer + Cloudinary uploads with roster capacity APIs
 
-- **Stack**: `MongoDB` &bull; `Express.js` &bull; `React.js` &bull; `Node.js` &bull; `Cloudinary` &bull; `JWT`
-- **Key Features**:
-  - **Student &amp; Athlete Management**: Comprehensive registration pipelines for student participants, athletic categories, and sports tournaments.
-  - **Admin Approval Dashboard**: Role-based access control with real-time verification and approval workflows for athletic coordinators.
-  - **Media &amp; Roster Management**: Avatar and identity card image uploads using Multer and Cloudinary, with dynamic roster capacity management APIs.
+</td>
+  </tr>
+  <tr>
+    <td>
 
----
+### 🤖 HelloBooks AI & HelloGrowth CRM
+**Enterprise SaaS Contributions**
 
-### 🤖 03. HelloBooks AI &amp; HelloGrowth CRM (Enterprise SaaS Contributions)
-> **Organization**: Meru Technosoft &nbsp;|&nbsp; **Role**: Fullstack Developer Intern
+![Org](https://img.shields.io/badge/Meru_Technosoft-FFD43B?style=flat-square&labelColor=0D0D0D)
+![Role](https://img.shields.io/badge/Fullstack_Developer_Intern-0D0D0D?style=flat-square&labelColor=FFD43B)
 
-Contributed to production-grade SaaS products powering enterprise workflow automation and bookkeeping.
+Contributed to production SaaS products for enterprise workflow automation and AI-powered bookkeeping.
 
-- **Stack**: `React.js` &bull; `Node.js` &bull; `PostgreSQL` &bull; `Prisma ORM` &bull; `Supabase` &bull; `Next.js`
-- **Key Highlights**:
-  - Developed and maintained critical bookkeeping features for **HelloBooks AI** using React.js, Node.js, and Prisma ORM.
-  - Built customer relationship management workflows for **HelloGrowth CRM** integrated with Supabase.
-  - Enhanced Next.js frontend performance, API route efficiency, and SEO rankings across client portals.
+`React` `Node.js` `PostgreSQL` `Prisma` `Supabase` `Next.js`
 
-<br/>
+- 📚 Built and maintained core bookkeeping features for **HelloBooks AI**
+- 🤝 Developed CRM workflows for **HelloGrowth** integrated with Supabase
+- ⚡ Improved Next.js performance, API route efficiency and SEO
+
+</td>
+  </tr>
+</table>
+
+<img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
+
+<h2 align="center">🧭 &nbsp;Journey</h2>
 
 <div align="center">
-  <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
+
+| 📅 Duration | 🧑‍💻 Role | 🏢 Organization | 📍 Location |
+| :---: | :--- | :--- | :---: |
+| `10/2025 – 09/2026` | **Fullstack Developer Intern** | Meru Technosoft | Ahmedabad |
+| `03/2025 – 08/2025` | **Fullstack Developer Trainee** | Felix IT Systems | Ahmedabad |
+| `Completed 05/2022` | **B.E. Information Technology** 🎓 | Government Engineering College | Gandhinagar |
+
 </div>
 
-## 💼 Experience &amp; 🎓 Education
+<img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
 
-| Role | Organization / Institution | Duration | Location |
-| :--- | :--- | :--- | :--- |
-| **Fullstack Developer Intern** | Meru Technosoft | 10/2025 – 09/2026 | Ahmedabad, India |
-| **Fullstack Developer Trainee** | Felix IT Systems | 03/2025 – 08/2025 | Ahmedabad, India |
-| **B.E. Information Technology** | Government Engineering College, Gandhinagar | Completed 05/2022 | Gandhinagar, India |
-
-<br/>
-
-<div align="center">
-  <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
-</div>
-
-## 📊 GitHub Analytics &amp; Activity
+<h2 align="center">📊 &nbsp;GitHub Analytics</h2>
 
 <div align="center">
   <table border="0">
@@ -183,29 +194,27 @@ Contributed to production-grade SaaS products powering enterprise workflow autom
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanRx&theme=dark&background=0D0D0D&border=303030&stroke=303030&ring=FFD43B&fire=FFD43B&currStreakNum=FFD43B&sideNums=F5F5F5&currStreakLabel=FACC15&sideLabels=A3A3A3&dates=A3A3A3&border_radius=10" alt="GitHub Streak" width="100%" style="max-width: 820px;" />
 </div>
 
-<br/>
+<img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
 
-<div align="center">
-  <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
-</div>
+<h2 align="center">💬 &nbsp;Let's Build Something Together</h2>
 
-## 💬 Get In Touch
-
-Whether you want to discuss a potential collaboration, discuss fullstack architecture, or explore new opportunities, my inbox is always open!
+<p align="center">
+  Collaboration, fullstack architecture ideas, or a new opportunity —<br/>
+  my inbox is always open! 📬
+</p>
 
 <div align="center">
   <a href="mailto:chandan.rxn@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-chandan.rxn@gmail.com-FFD43B?style=for-the-badge&logo=gmail&logoColor=0D0D0D" alt="Say Hello" /></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/chandan-pargi-459272187"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/pixel-divider.svg" alt="Divider" width="100%" />
+  <code>rxn@developer:~$ echo "Always learning, building, and shipping."</code>
+  <br/><br/>
+  <sub>Crafted with passion • Designed in Black &amp; Yellow • © 2026 Chandan Pargi</sub>
 </div>
 
-<div align="center">
-  <code>rxn@developer:~$ echo "Always learning, building, and shipping."</code>
-  <p><sub>Crafted with passion &bull; Designed in Black &amp; Yellow &bull; © 2026 Chandan Pargi</sub></p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FFD43B&height=120&section=footer" width="100%" alt="Footer" />
