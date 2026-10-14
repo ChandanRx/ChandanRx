@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="100%" height="24">
+  <defs>
+    <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#303030" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#303030" stop-opacity="0.8"/>
+      <stop offset="45%" stop-color="#FFD43B" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#FACC15" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#FFD43B" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#303030" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#303030" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Thin Center Line -->
+  <line x1="20" y1="12" x2="780" y2="12" stroke="url(#dividerGrad)" stroke-width="1.5" />
+  
+  <!-- Pixel Accent Diamonds in Center -->
+  <rect x="396" y="8" width="8" height="8" rx="1.5" fill="#FFD43B" transform="rotate(45 400 12)" />
+  <rect x="382" y="10" width="4" height="4" rx="1" fill="#FACC15" transform="rotate(45 384 12)" opacity="0.8" />
+  <rect x="414" y="10" width="4" height="4" rx="1" fill="#FACC15" transform="rotate(45 416 12)" opacity="0.8" />
+</svg>
